@@ -1,0 +1,15 @@
+.iframe{height:100%; }
+.transparente{
+    visibility:hidden;
+}
+img{
+      width:62px;
+      height:62px;
+      }
+.red{
+    background-color: #ee465a;
+    border-color: #c11a39;
+}
+.f{
+    color: yellow;
+}

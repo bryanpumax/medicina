@@ -1,0 +1,28 @@
+.tabla_cliente{position:absolute;
+    top:1px;
+    }
+    
+    
+    .ver_cliente{
+    position:absolute!important;
+    top:2em;
+    left:10%;
+    background:#fff;
+    border:1px solid #000;
+    padding:.2em;
+    display:none;
+    z-index:9999;
+    }
+    
+    
+    
+    .ver_Producto{
+    display:none;
+    position:absolute!important;
+    top:2em;
+    left:10%;
+    background:#fff;
+    border:1px solid #000;
+    padding:.2em;
+    z-index:9999;
+    }
